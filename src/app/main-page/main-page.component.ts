@@ -2,14 +2,18 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-main-page',
-  template: `
-    <p>
-      main-page works!
-    </p>
-  `,
-  styles: [
-  ]
+  templateUrl: './main-page.component.html',
+  styleUrls: ['./main-page.component.css' ]
 })
 export class MainPageComponent {
+
+  changeToHome()
+  {
+    
+  }
+  changeToAbout()
+  {
+
+  }
 
 }
