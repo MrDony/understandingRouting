@@ -1,0 +1,10 @@
+.footer
+{
+    margin-top: 12px;
+    background-color: #721717;
+    padding: 20px 10px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    transition: all 0.3s;
+    transition-timing-function: ease-in-out;
+}
